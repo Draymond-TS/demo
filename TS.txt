@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am other
+=======
+i am demo
+>>>>>>> 3c4116c971d44a2c2113f0f177c896452f86fc11
